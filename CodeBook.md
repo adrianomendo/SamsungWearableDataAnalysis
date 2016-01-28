@@ -1,4 +1,4 @@
-# Data Description
+# Code Book
 
 Summary (average) for different measurements grouped by:
 * Activity: Type of activity
